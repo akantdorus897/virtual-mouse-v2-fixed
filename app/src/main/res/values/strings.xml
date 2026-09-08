@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">موس مجازی</string>
+    <string name="accessibility_service_name">موس مجازی - دستیار دسترسی</string>
+    <string name="start_mouse">شروع موس</string>
+    <string name="stop_mouse">توقف موس</string>
+    <string name="sensitivity">حساسیت: %d</string>
+    <string name="cursor_size">اندازه نشانگر: %d</string>
+    <string name="overlay_permission_title">اجازه نمایش روی سایر برنامه‌ها</string>
+    <string name="overlay_permission_message">برای نمایش موس مجازی، اجازه OVERLAY لازم است.</string>
+    <string name="notification_permission_message">برای کنترل از نوتیفیکشن، اجازه اطلاع‌رسانی لازم است.</string>
+    <string name="accessibility_service_message">برای کلیک، اسکرول و انتخاب متن، سرویس دسترسی را فعال کنید.</string>
+    <string name="open_settings">باز کردن تنظیمات</string>
+    <string name="enable_accessibility">فعال‌سازی دسترسی</string>
+    <string name="enable_overlay">فعال‌سازی پوشش</string>
+    <string name="enable_notifications">فعال‌سازی اطلاع‌رسانی</string>
+    <string name="cursor_shape">شکل نشانگر</string>
+    <string name="cursor_color">رنگ نشانگر</string>
+    <string name="loading_text">در حال راه‌اندازی…</string>
+    <string name="mouse_active">موس مجازی فعال است</string>
+    <string name="tap_to_click">لمس برای کلیک</string>
+    <string name="long_press_menu">گوشه بالا راست برای منو</string>
+    <string name="menu_copy">کپی</string>
+    <string name="menu_paste">چسباندن</string>
+    <string name="menu_select_all">انتخاب همه</string>
+    <string name="menu_scroll_up">اسکرول بالا</string>
+    <string name="menu_scroll_down">اسکرول پایین</string>
+    <string name="menu_right_click">راست کلیک</string>
+    <string name="menu_double_click">دابل کلیک</string>
+    <string name="menu_close">بستن</string>
+</resources>

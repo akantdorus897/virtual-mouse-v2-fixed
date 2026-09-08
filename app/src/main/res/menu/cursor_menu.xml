@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_click"
+        android:title="@string/menu_double_click"
+        android:icon="@drawable/cursor_arrow" />
+    <item
+        android:id="@+id/menu_right_click"
+        android:title="@string/menu_right_click"
+        android:icon="@drawable/cursor_crosshair" />
+    <item
+        android:id="@+id/menu_copy"
+        android:title="@string/menu_copy"
+        android:icon="@drawable/cursor_hand" />
+    <item
+        android:id="@+id/menu_paste"
+        android:title="@string/menu_paste"
+        android:icon="@drawable/cursor_circle" />
+    <item
+        android:id="@+id/menu_select_all"
+        android:title="@string/menu_select_all"
+        android:icon="@drawable/cursor_arrow" />
+    <item
+        android:id="@+id/menu_scroll_up"
+        android:title="@string/menu_scroll_up"
+        android:icon="@drawable/cursor_crosshair" />
+    <item
+        android:id="@+id/menu_scroll_down"
+        android:title="@string/menu_scroll_down"
+        android:icon="@drawable/cursor_crosshair" />
+    <item
+        android:id="@+id/menu_close"
+        android:title="@string/menu_close"
+        android:icon="@drawable/cursor_circle" />
+</menu>
