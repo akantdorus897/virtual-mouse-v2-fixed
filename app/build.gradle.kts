@@ -10,8 +10,8 @@ android {
         applicationId = "com.example.virtualmouse"
         minSdk = 28
         targetSdk = 34
-        versionCode = 2
-        versionName = "1.0.1"
+        versionCode = 3
+        versionName = "1.1.0-crashproof"
     }
 
     buildTypes {
